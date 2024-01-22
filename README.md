@@ -1,4 +1,4 @@
-# REST API on Flask pet-project: Rice_for_Shell
+# REST API on Flask: Rice_for_Shell
 
 REST API на Flask - классификация видов риса - выбран открытый датасет (Rice Cammeo and Osmancik), реализованы ноутбуки с сервером и клиентом, собраны пайплайны, обучена логистическая регрессия, запущен сервис, построен запрос, получено успешное предсказание. 
 
